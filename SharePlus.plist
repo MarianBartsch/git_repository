@@ -17,9 +17,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.erco.performancecockpit</string>
+				<string>com.erco.shareplus</string>
 				<key>bundle-version</key>
-				<string>1.1.1</string>
+				<string>4.8.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
